@@ -4,12 +4,12 @@ Test 3
 
 # -1-
 
-![](sil1.png)
+![](sil1.PNG)
 
 # -2-
 
-![](sil2.png)
+![](sil2.PNG)
 
 # -3-
 
-![](sil3.png)
+![](sil3.PNG)

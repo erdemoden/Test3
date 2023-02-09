@@ -2,7 +2,7 @@ Test 3
 
 # Uygulama Resimleri
 
-# Haftalık Aylık Dönmedi ücretsiz sürümde wather stack historical a izin vermiyor
+# Haftalık Aylık Dönemedim ücretsiz sürümde wather stack historical a izin vermiyor
 
 # -1-
 
